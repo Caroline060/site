@@ -1,0 +1,22 @@
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(65, 94, 198)
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(65, 94, 198)
+}
+h4 {
+    font-family:cursive
+}
+li {
+    font-family:cursive
+}
+img {
+    width: 350px;
+    height: 250px;
+}
+
+table, td, th {
+    border: 2px solid rgb(65, 94, 198)
+}
